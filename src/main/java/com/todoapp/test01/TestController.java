@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 
-//merge 충돌테스트1
+//merge 충돌테스트2
 @RestController
 public class TestController {
 
